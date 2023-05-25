@@ -7,5 +7,5 @@
 <!---
 KahveciFurkan/KahveciFurkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-https://tenor.com/bPuhb.gif
+<img align="right" alt="Coding" width="400" src="https://tenor.com/bPuhb.gif">
 --->
