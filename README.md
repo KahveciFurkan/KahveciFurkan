@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="coding" width="600" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b95263b2b37134d34a995b9f0031e0bd40340daaeb2e&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b95263b2b37134d34a995b9f0031e0bd40340daaeb2e&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">
 
 
 
